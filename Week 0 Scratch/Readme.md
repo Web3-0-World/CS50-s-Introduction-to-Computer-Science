@@ -1,4 +1,4 @@
-# CS50 2020 - Lecture 0 - Scratch
+# CS50 - Lecture 0 - Scratch
 
 This lecture introduces the basics of computer science using Scratch, a visual programming language developed by MIT. Scratch is designed to teach programming concepts through a block-based interface, making it accessible and fun for beginners without requiring knowledge of complex syntax.
 
